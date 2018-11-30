@@ -1,0 +1,22 @@
+package practice;
+
+public class MyPoint {
+	int x;
+	int y;
+
+	int setX(int px){
+		x=px;
+		return x;
+	}
+
+	int setY(int py){
+		y=py;
+		return y;
+	}
+
+	void call(){
+		System.out.println("x座標は"+x+"y座標は"+y+"です");
+	}
+
+}
+

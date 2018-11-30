@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;HelloJSP/WebContent/NewFile.jsp&apos; を &apos;total-error.jsp&apos; に変更します" description="リソース &apos;NewFile.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/NewFile.jsp" name="total-error.jsp" stamp="1542178562127" updateReferences="true"/>
+</session>

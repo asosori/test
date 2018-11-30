@@ -1,0 +1,12 @@
+package practice;
+
+public class MyPoint2 {
+
+	int x=0;
+	int y=0;
+
+	public MyPoint2(){
+
+	}
+}
+

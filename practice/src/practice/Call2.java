@@ -1,0 +1,9 @@
+package practice;
+
+public class Call2{
+	public static void main(String [] args){
+		MyPoint2 calla=new MyPoint2();
+		MyPoint2 callb=new MyPoint2(-5,5);
+
+	}
+}

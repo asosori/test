@@ -1,0 +1,10 @@
+package practice;
+
+public class Call{
+	public static void main(String[] args){
+		Mypoint call1=new Mypoint();
+
+		call1.call(call1.setX(2);, call1.setY(6););
+	}
+}
+

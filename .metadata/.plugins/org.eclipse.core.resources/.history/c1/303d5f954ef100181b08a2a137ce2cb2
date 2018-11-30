@@ -1,0 +1,19 @@
+package practice;
+
+public class MyPoint2 {
+
+	int x=0;
+	int y=0;
+
+	public MyPoint2(){
+
+	}
+}
+
+public class Call2{
+	public static void main(String [] args){
+		MyPoint2 calla=new MyPoint2();
+
+
+	}
+}

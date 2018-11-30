@@ -1,0 +1,20 @@
+package practice;
+
+public class MyPoint {
+
+	int setX(int x){
+		return x;
+	}
+
+	int setY(int y){
+		return y;
+	}
+
+	void call(int x,int y){
+		System.out.println("x座標は"+ x+ ",y座標は"+ y +"です");
+	}
+
+}
+
+
+
